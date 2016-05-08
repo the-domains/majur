@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[majur]]></title>
         <description><![CDATA[majur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/majur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 02:43:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 02:46:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/majur/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ed4325-788b-4e61-9d5e-42e8d5fc8842.png">]]></description>
+            <link>https://thegrid.ai/majur/05b9997d-578a-4aa7-874c-7b087db5705d/index.html</link>
+            <guid isPermaLink="false">05b9997d-578a-4aa7-874c-7b087db5705d</guid>
+            <pubDate>Sun, 08 May 2016 02:45:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>blah blah blah bla</p>]]></description>
-            <link>undefinedblah-blah-blah-bla/index.html</link>
+            <link>https://thegrid.ai/majur/blah-blah-blah-bla/index.html</link>
             <guid isPermaLink="false">4956a9b2-438a-480e-94ed-cbfc404f5fca</guid>
             <pubDate>Sun, 08 May 2016 02:43:06 GMT</pubDate>
         </item>
